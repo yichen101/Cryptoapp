@@ -5,3 +5,8 @@ Choose file location and enter `npx create-react-app .` into terminal.
 
 # To start,
 type `npm start` 
+
+
+npm install finnhub --save
+
+npm install websocket
