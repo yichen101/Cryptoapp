@@ -6,6 +6,7 @@ Choose file location and enter `npx create-react-app .` into terminal.
 # To start,
 type `npm start` 
 
+npm install axios
 
 npm install finnhub --save
 
