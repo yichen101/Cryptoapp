@@ -8,6 +8,4 @@ type `npm start`
 
 npm install axios
 
-npm install finnhub --save
-
-npm install websocket
+npm install react-router-dom
