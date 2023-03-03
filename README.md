@@ -1,11 +1,21 @@
-# Cryptoapp
+# Crypto App
+This project allows users to have access to live cryptocurrency coin data on a fully-functional website.
 
-# Create React App & Install Packages
-Choose file location and enter `npx create-react-app .` into terminal.
+# Task
+'*' Fetch cryptocurrency coin data from API and display it on the site.
+'*' Have a search function that users can filter on desired coins.
 
-# To start,
-type `npm start` 
+# Extension
+Add a favourites page which allows users to add/ remove selected coins.
 
-npm install axios
+# Libraries/Packages to install, enter into terminal
+Create React App: `npx create-react-app .`
 
-npm install react-router-dom
+To run the app in development mode: `npm start` 
+
+To fetch data from API: `npm install axios`
+
+To enable routing in app: `npm install react-router-dom`
+
+# System information
+Platform: Windows-10
