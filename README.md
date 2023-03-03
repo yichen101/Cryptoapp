@@ -6,7 +6,7 @@ This project allows users to have access to live cryptocurrency coin data on a f
 
 2. Have a search function that users can use to filter on desired coins.
 
-<img src="https://raw.githubusercontent.com/yichen101/Cryptoapp/main/images/HomePage.png" width="400" height="270"> <img src="https://raw.githubusercontent.com/yichen101/Cryptoapp/main/images/FavouritesPage.png" width="400" height="270">
+<img src="https://raw.githubusercontent.com/yichen101/Cryptoapp/main/images/Homepage.png" width="400" height="270"> <img src="https://raw.githubusercontent.com/yichen101/Cryptoapp/main/images/Favouritespage.png" width="400" height="270">
 
 # Extension Task
 Add a "My Favourites" page which allows users to add/ remove selected coins.
