@@ -2,14 +2,15 @@
 This project allows users to have access to live cryptocurrency coin data on a fully-functional website.
 
 # Task
-'*' Fetch cryptocurrency coin data from API and display it on the site.
-'*' Have a search function that users can filter on desired coins.
+1. Fetch cryptocurrency coin data from API and display it on the site.
 
-# Extension
-Add a favourites page which allows users to add/ remove selected coins.
+2. Have a search function that users can use to filter on desired coins.
+
+# Extension Task
+Add a "My Favourites" page which allows users to add/ remove selected coins.
 
 # Libraries/Packages to install, enter into terminal
-Create React App: `npx create-react-app .`
+To create React app: `npx create-react-app .`
 
 To run the app in development mode: `npm start` 
 
