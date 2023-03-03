@@ -5,7 +5,7 @@ import FavouritesPage from './pages/Favourites.js'
 import NavigationBar from './components/NavigationBar'
 function App() {
   return (
-    <div>
+    <div className='backgroundColour'>
       <NavigationBar/>
       <Routes>
         <Route path="/" element={<HomePage />} />
