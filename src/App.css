@@ -34,3 +34,7 @@ body {
 .text {
   text-align: center;
 }
+
+.backgroundColour {
+  background-color: rgb(230, 230, 230);
+}
